@@ -1,0 +1,1132 @@
+{
+  "ID": "e8e447b5-8794-40bb-a970-760509f45fd4",
+  "Version": "2.3.4",
+  "Name": "PanelLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 528,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 93,
+            "Scale9Height": 88,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 273.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4266,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0968
+            },
+            "LeftMargin": 273.0,
+            "RightMargin": 244.0,
+            "TopMargin": 1026.0,
+            "Tag": 400,
+            "ActionTag": -369453756,
+            "Size": {
+              "X": 123.0,
+              "Y": 110.0
+            },
+            "Name": "lobby_tab",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_currency_background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 1136.0
+            },
+            "Scale": {
+              "ScaleX": 0.75,
+              "ScaleY": 0.75
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.3344,
+              "Y": 0.0748
+            },
+            "RightMargin": -214.0,
+            "BottomMargin": 1051.0,
+            "Tag": 531,
+            "ActionTag": -903364673,
+            "Size": {
+              "X": 854.0,
+              "Y": 85.0
+            },
+            "Name": "lobby_currency_background_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_notification_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.3,
+              "ScaleY": 0.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.6687,
+              "Y": 0.088
+            },
+            "LeftMargin": -86.0,
+            "RightMargin": 298.0,
+            "TopMargin": -25.0,
+            "BottomMargin": 1061.0,
+            "Tag": 532,
+            "ActionTag": -125195229,
+            "Size": {
+              "X": 428.0,
+              "Y": 100.0
+            },
+            "Name": "common_notification_bar_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_notification_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.3,
+              "ScaleY": 0.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.6687,
+              "Y": 0.088
+            },
+            "LeftMargin": 106.0,
+            "RightMargin": 106.0,
+            "TopMargin": -25.0,
+            "BottomMargin": 1061.0,
+            "Tag": 533,
+            "ActionTag": -1909332106,
+            "Size": {
+              "X": 428.0,
+              "Y": 100.0
+            },
+            "Name": "common_notification_bar_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_notification_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 512.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.3,
+              "ScaleY": 0.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.6687,
+              "Y": 0.088
+            },
+            "LeftMargin": 298.0,
+            "RightMargin": -86.0,
+            "TopMargin": -25.0,
+            "BottomMargin": 1061.0,
+            "Tag": 534,
+            "ActionTag": -741571341,
+            "Size": {
+              "X": 428.0,
+              "Y": 100.0
+            },
+            "Name": "common_notification_bar_13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_icon_g.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 454.9999,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.4,
+              "ScaleY": 0.4
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7109,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1422,
+              "Y": 0.0942
+            },
+            "LeftMargin": 363.9999,
+            "RightMargin": 185.0001,
+            "TopMargin": -28.5,
+            "BottomMargin": 1057.5,
+            "Tag": 535,
+            "ActionTag": 1944533336,
+            "Size": {
+              "X": 91.0,
+              "Y": 107.0
+            },
+            "Name": "common_icon_g_14",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_icon_gold.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.4,
+              "ScaleY": 0.4
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4141,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1375,
+              "Y": 0.0951
+            },
+            "LeftMargin": 177.0,
+            "RightMargin": 375.0,
+            "TopMargin": -29.0,
+            "BottomMargin": 1057.0,
+            "Tag": 536,
+            "ActionTag": -1261293940,
+            "Size": {
+              "X": 88.0,
+              "Y": 108.0
+            },
+            "Name": "common_icon_gold_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/common_icon_trophy.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 80.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.4,
+              "ScaleY": 0.4
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.125,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1688,
+              "Y": 0.0924
+            },
+            "LeftMargin": -28.0,
+            "RightMargin": 560.0,
+            "TopMargin": -27.5,
+            "BottomMargin": 1058.5,
+            "Tag": 537,
+            "ActionTag": 613684693,
+            "Size": {
+              "X": 108.0,
+              "Y": 105.0
+            },
+            "Name": "common_icon_trophy_16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_currency_btn_top_up.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.75,
+              "ScaleY": 0.75
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5859,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.0594,
+              "Y": 0.0352
+            },
+            "LeftMargin": 375.0,
+            "RightMargin": 227.0,
+            "TopMargin": 5.0,
+            "BottomMargin": 1091.0,
+            "Tag": 538,
+            "ActionTag": -1354223190,
+            "Size": {
+              "X": 38.0,
+              "Y": 40.0
+            },
+            "Name": "lobby_currency_btn_top_up_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_currency_btn_top_up.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 0.75,
+              "ScaleY": 0.75
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8828,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.0594,
+              "Y": 0.0352
+            },
+            "LeftMargin": 565.0,
+            "RightMargin": 37.0,
+            "TopMargin": 5.0,
+            "BottomMargin": 1091.0,
+            "Tag": 539,
+            "ActionTag": -301712203,
+            "Size": {
+              "X": 38.0,
+              "Y": 40.0
+            },
+            "Name": "lobby_currency_btn_top_up_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn_2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0968
+            },
+            "RightMargin": 517.0,
+            "TopMargin": 1026.0,
+            "Tag": 540,
+            "ActionTag": -1587011606,
+            "Size": {
+              "X": 123.0,
+              "Y": 110.0
+            },
+            "Name": "lobby_page_btn_2_19",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn_2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 394.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6156,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0968
+            },
+            "LeftMargin": 394.0,
+            "RightMargin": 123.0,
+            "TopMargin": 1026.0,
+            "Tag": 542,
+            "ActionTag": -1969617664,
+            "Size": {
+              "X": 123.0,
+              "Y": 110.0
+            },
+            "Name": "lobby_page_btn_2_21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 516.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8062,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0968
+            },
+            "LeftMargin": 516.0,
+            "RightMargin": 1.0,
+            "TopMargin": 1026.0,
+            "Tag": 543,
+            "ActionTag": 1695867253,
+            "Size": {
+              "X": 123.0,
+              "Y": 110.0
+            },
+            "Name": "lobby_page_btn_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_btn_selecting.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 120.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.95,
+              "ScaleY": 0.95
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1875,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.2562,
+              "Y": 0.1074
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 356.0,
+            "TopMargin": 1014.0,
+            "Tag": 544,
+            "ActionTag": 934786145,
+            "Size": {
+              "X": 164.0,
+              "Y": 122.0
+            },
+            "Name": "lobby_page_btn_selecting_23",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_icon_shop.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 61.5,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0961,
+              "Y": 0.0484
+            },
+            "PreSize": {
+              "X": 0.1469,
+              "Y": 0.0898
+            },
+            "LeftMargin": 14.5,
+            "RightMargin": 531.5,
+            "TopMargin": 1030.0,
+            "BottomMargin": 4.0,
+            "Tag": 545,
+            "ActionTag": 1191038686,
+            "Size": {
+              "X": 94.0,
+              "Y": 102.0
+            },
+            "Name": "lobby_page_icon_shop_24",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_icon_cards.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 198.0,
+              "Y": 70.0
+            },
+            "Scale": {
+              "ScaleX": 0.975,
+              "ScaleY": 0.975
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3094,
+              "Y": 0.0616
+            },
+            "PreSize": {
+              "X": 0.1422,
+              "Y": 0.0933
+            },
+            "LeftMargin": 152.5,
+            "RightMargin": 396.5,
+            "TopMargin": 1013.0,
+            "BottomMargin": 17.0,
+            "Tag": 546,
+            "ActionTag": 1054544039,
+            "Size": {
+              "X": 91.0,
+              "Y": 106.0
+            },
+            "Name": "lobby_page_icon_cards_25",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_icon_home.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 334.5,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5227,
+              "Y": 0.0484
+            },
+            "PreSize": {
+              "X": 0.1609,
+              "Y": 0.0933
+            },
+            "LeftMargin": 283.0,
+            "RightMargin": 254.0,
+            "TopMargin": 1028.0,
+            "BottomMargin": 2.0,
+            "Tag": 547,
+            "ActionTag": 903146824,
+            "Size": {
+              "X": 103.0,
+              "Y": 106.0
+            },
+            "Name": "lobby_page_icon_home_26",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_icon_social.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 455.5,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7117,
+              "Y": 0.0484
+            },
+            "PreSize": {
+              "X": 0.1609,
+              "Y": 0.0871
+            },
+            "LeftMargin": 404.0,
+            "RightMargin": 133.0,
+            "TopMargin": 1031.5,
+            "BottomMargin": 5.5,
+            "Tag": 548,
+            "ActionTag": -703090471,
+            "Size": {
+              "X": 103.0,
+              "Y": 99.0
+            },
+            "Name": "lobby_page_icon_social_27",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/lobby_page_icon_clan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 577.5,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9023,
+              "Y": 0.0484
+            },
+            "PreSize": {
+              "X": 0.1328,
+              "Y": 0.0898
+            },
+            "LeftMargin": 535.0,
+            "RightMargin": 20.0,
+            "TopMargin": 1030.0,
+            "BottomMargin": 4.0,
+            "Tag": 549,
+            "ActionTag": -1252160700,
+            "Size": {
+              "X": 85.0,
+              "Y": 102.0
+            },
+            "Name": "lobby_page_icon_clan_28",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "10000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 515.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8047,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.0211
+            },
+            "LeftMargin": 477.5,
+            "RightMargin": 87.5,
+            "TopMargin": 13.0,
+            "BottomMargin": 1099.0,
+            "Tag": 315,
+            "ActionTag": -1199615762,
+            "Size": {
+              "X": 75.0,
+              "Y": 24.0
+            },
+            "Name": "player_g",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "10000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 135.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2109,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.0211
+            },
+            "LeftMargin": 97.5,
+            "RightMargin": 467.5,
+            "TopMargin": 13.0,
+            "BottomMargin": 1099.0,
+            "Tag": 316,
+            "ActionTag": -1955132624,
+            "Size": {
+              "X": 75.0,
+              "Y": 24.0
+            },
+            "Name": "player_rank",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "10000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 1111.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.978
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.0211
+            },
+            "LeftMargin": 282.5,
+            "RightMargin": 282.5,
+            "TopMargin": 13.0,
+            "BottomMargin": 1099.0,
+            "Tag": 317,
+            "ActionTag": -1472793296,
+            "Size": {
+              "X": 75.0,
+              "Y": 24.0
+            },
+            "Name": "player_gold",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Cards",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 198.0,
+              "Y": 17.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3094,
+              "Y": 0.015
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0255
+            },
+            "LeftMargin": 153.5,
+            "RightMargin": 397.5,
+            "TopMargin": 1104.5,
+            "BottomMargin": 2.5,
+            "Tag": 327,
+            "ActionTag": 2000966170,
+            "Size": {
+              "X": 89.0,
+              "Y": 29.0
+            },
+            "Name": "Text_6",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../res/common_icon_g.png",
+        "../res/common_icon_gold.png",
+        "../res/common_icon_trophy.png",
+        "../res/common_notification_bar.png",
+        "../res/lobby_currency_background.png",
+        "../res/lobby_currency_btn_top_up.png",
+        "../res/lobby_page_btn.png",
+        "../res/lobby_page_btn_2.png",
+        "../res/lobby_page_btn_selecting.png",
+        "../res/lobby_page_icon_cards.png",
+        "../res/lobby_page_icon_clan.png",
+        "../res/lobby_page_icon_home.png",
+        "../res/lobby_page_icon_shop.png",
+        "../res/lobby_page_icon_social.png",
+        "../SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

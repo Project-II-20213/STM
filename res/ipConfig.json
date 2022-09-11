@@ -1,0 +1,6 @@
+{
+  "serverDev": "127.0.0.1",
+  "portDev": 11210,
+  "serverTest": "120.138.65.108",
+  "portTest" : 10061
+}

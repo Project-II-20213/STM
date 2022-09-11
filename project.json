@@ -1,0 +1,30 @@
+{
+    "debugMode": 1,
+    "showFPS": true,
+    "frameRate": 60,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "../../frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d"
+    ],
+    "jsListOrder": [
+        "src/data/**/*.js",
+        "src/framework/**/*.js",
+        "src/gui/screen/**/*.js",
+        "src/**/*.js"
+    ],
+    "jsList": [
+        "src/config/GameConfig.js",
+        "src/config/MonsterConfig.js",
+        "src/config/TowerType.js",
+        "src/utils/AnimationUtils.js",
+        "src/utils/FindPath.js",
+        "src/utils/MapUtils.js",
+        "src/game/ScreenMenu.js",
+        "src/game/Resource.js",
+        "src/game/Side.js",
+        "src/game/GameScreen.js"
+
+    ]
+}
