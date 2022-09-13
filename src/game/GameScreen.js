@@ -14,7 +14,7 @@ let GameScreen = cc.Layer.extend({
         this.addChild(this.mapBg, 0);
 
         this.playerSide = new Side(PLAYER_SIDE);
-        //this.playerSide.initPlayerMap();
+        this.playerSide.initPlayerMap();
         this.addChild(this.playerSide, 3);
         cc.log("playerSide : " + this.playerSide.x + ", " + this.playerSide.y);
 
